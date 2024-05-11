@@ -1,4 +1,4 @@
-# Home-Work
+# Computer Science Student- Summer Home-Work
 Definition: User has account for managing his economy, he can see his balance, transactions, and other information about his account.
 
 -User can see his account information in the account page.
