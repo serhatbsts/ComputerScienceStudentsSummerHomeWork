@@ -79,7 +79,7 @@ https://www.designgurus.io/answers/detail/SOLID-design-principles?gad_source=1&g
 - Use the best practices for the project. Use the best practices for the project structure, naming conventions, etc.
 
 - Unit test the application. Write unit tests for the application. Use Junit, Mockito,AssertJ for unit testing.
-and add Integration test the application.(Optional-what it would be nice if you can add integration test for the application)
+and add Integration test the application.(Integration Test is optional-However it would be nice if you can add integration tests)
 
 https://www.youtube.com/watch?v=u6QfIXgjwGQ
 
