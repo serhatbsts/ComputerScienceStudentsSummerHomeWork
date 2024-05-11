@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=VVRCrZsvtP8
 https://www.youtube.com/watch?v=gdjcKwWxe08
 https://www.youtube.com/watch?v=pdtpWYNBzqM
 https://www.designgurus.io/answers/detail/SOLID-design-principles?gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KghHhNQnTZ5eqEyzNx7Inh0o4w0sOQ8r6CdTzt8bpxVL_jFwMmSSBNRoCFt0QAvD_BwE
-### -Use git for version control. Create a repository in github, and share the link with us. Use branches for development,and create a pull request for review. Send me the PR link for review. Without PR and review you can't merge to main branch
+### -Use git for version control. Create a repository in github, and share the link with us. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to master branch. Follow the review comments
 - Follow clean git history for the project. Write good commit messages. Make sure that the commit messages are clear and understandable.
 - Use the best practices for the project. Use the best practices for the project structure, naming conventions, etc.
 - Unit test the application. Write unit tests for the application. Use Junit, Mockito,AssertJ for unit testing.
