@@ -53,7 +53,7 @@ and add Integration test the application.(Optional-what it would be nice if you 
 - https://www.youtube.com/watch?v=vCODdVCvrxc
 - https://www.youtube.com/watch?v=60F8rzP5nQo
 - https://www.youtube.com/watch?v=SBeG6cl8BlA
-- - Use Swagger for API documentation. Create a swagger documentation for the application.
+- Use Swagger for API documentation. Create a swagger documentation for the application.
 
 -Time to time you can set to meeting with us to discuss the project.
 -You can ask any question about the project.
