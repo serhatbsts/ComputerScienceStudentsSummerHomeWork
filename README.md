@@ -1,4 +1,8 @@
-# Computer Science Student- Summer Home-Work
+# Computer Science Students summer Home-Work
+
+If you are Computer Science student, and you want to improve your programming skills, you can start this project. This project will help you to improve your programming skills. You can do this project in your summer holiday.
+Reach me out, I will follow you, and help you to improve your programming skills. I will update README.md file time to time. You can follow the README.md file for the project requirements.
+
 Definition: User has account for managing his economy, he can see his balance, transactions, and other information about his account.
 
 -User can see his account information in the account page.
@@ -67,7 +71,7 @@ https://www.youtube.com/watch?v=pdtpWYNBzqM
 
 https://www.designgurus.io/answers/detail/SOLID-design-principles?gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KghHhNQnTZ5eqEyzNx7Inh0o4w0sOQ8r6CdTzt8bpxVL_jFwMmSSBNRoCFt0QAvD_BwE
 
-### -Use git for version control. Create a repository in github, and share the link with us. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to master branch. Follow the review comments
+### -Use git for version control. Create a repository in github, and share the link with me. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to master branch. Follow the review comments
 
 - Follow clean git history for the project. Write good commit messages. Make sure that the commit messages are clear and understandable.
 
@@ -94,6 +98,10 @@ https://www.youtube.com/watch?v=UgXiWwb47VA
 
 https://www.youtube.com/watch?v=YJ5APRPHNfs
 
+https://www.youtube.com/watch?v=erp-7MCK5BU
+
+https://www.youtube.com/watch?v=41Ry2ojnJFM
+
 -Follow Rest api naming conventions. https://restfulapi.net/resource-naming/
 
 https://www.youtube.com/watch?v=vCODdVCvrxc
@@ -104,11 +112,11 @@ https://www.youtube.com/watch?v=SBeG6cl8BlA
 -Use Swagger for API documentation. Create a swagger documentation for the application.
 
 
--Time to time you can set to meeting with us to discuss the project.
+-Time to time you can set to meeting with me to discuss the project.
 
 -You can ask any question about the project.
 
--End of project you should present the project to me. 10-15 min predation with english language.
+-End of project you should present the project to me. 10-15 min presentation with english language.
 
 -End of project we can discuss to add new features to the project.
 
