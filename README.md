@@ -2,6 +2,7 @@
 
 If you are Computer Science student, and you want to improve your programming skills, you can start this project. This project will help you to improve your programming skills. You can do this project in your summer holiday.
 Reach me out, I will follow you, and help you to improve your programming skills. I will update README.md file time to time. You can follow the README.md file for the project requirements.
+Any quqestion to me or https://github.com/serhatbsts/ you can ask. 
 
 Definition: User has account for managing his economy, he can see his balance, transactions, and other information about his account.
 
