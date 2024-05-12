@@ -22,7 +22,9 @@ For example, when user trigger this api: getAccountInfo, he will get his account
 
 -Keep simple, 
 
--Create two tables, one for user, one for account. Keep OneToOne relation between them User and Account.https://www.baeldung.com/jpa-one-to-one
+-Create two tables, one for user, one for account. Keep OneToOne relation between them User and Account.
+
+https://www.baeldung.com/jpa-one-to-one
 
 https://www.youtube.com/watch?v=Svpcn5wJ8CU
 
