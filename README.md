@@ -1,18 +1,21 @@
-# Computer Science Students summer Home-Work
+# Computer Science Students Summer Home-Work
 
-If you are Computer Science student, and you want to improve your programming skills, you can start this project. This project will help you to improve your programming skills. You can do this project in your summer holiday.
-Reach me out, I will follow you, and help you to improve your programming skills. I will update README.md file time to time. You can follow the README.md file for the project requirements.
-Any quqestion to me or https://github.com/serhatbsts/ you can ask. 
+If you are a Computer Science student and want to improve your programming skills, you can start this project. This project will help you to improve your programming skills. You can do this project in your summer holiday.
+Reach me out, I will follow you, and help you to improve your programming skills. I will update the README.md file from time to time. You can follow the README.md file for the project requirements.
+If you have any questions for me or https://github.com/serhatbsts/ you can ask. 
 
-Definition: User has account for managing his economy, he can see his balance, transactions, and other information about his account.
+The Developer Candidate List:
+https://github.com/serhatbsts/accountManager
+
+Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
 -User can see his account information in the account page.
-For example when user trigger this api: getAccountInfo, he will get his account information. Money in the account, and other information about his account.
--Create, Edit, Delete, update user info.
+For example, when user trigger this api: getAccountInfo, he will get his account information. Money in the account, and other information about his account.
+-Create, Edit, Delete, and update user info.
 
 -Add account,delete account, update account.
 
--Add money his account, withdraw money from account.
+-Add money to his account, and withdraw money from the account.
 
 -Add the required APIs for the above requirements
 
