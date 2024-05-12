@@ -5,6 +5,7 @@ Reach me out, I will follow you, and help you to improve your programming skills
 If you have any questions for me or https://github.com/serhatbsts/ you can ask. 
 
 The Developer Candidate List:
+
 https://github.com/serhatbsts/accountManager
 
 Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
@@ -75,7 +76,7 @@ https://www.youtube.com/watch?v=pdtpWYNBzqM
 
 https://www.designgurus.io/answers/detail/SOLID-design-principles?gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KghHhNQnTZ5eqEyzNx7Inh0o4w0sOQ8r6CdTzt8bpxVL_jFwMmSSBNRoCFt0QAvD_BwE
 
-### -Use git for version control. Create a repository in github, and share the link with me. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to master branch. Follow the review comments
+### -Use git for version control. Create a repository in GitHub, and share the link with me. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to a master branch. Follow the review comments
 
 - Follow clean git history for the project. Write good commit messages. Make sure that the commit messages are clear and understandable.
 
@@ -111,6 +112,7 @@ https://www.youtube.com/watch?v=41Ry2ojnJFM
 https://www.youtube.com/watch?v=vCODdVCvrxc
 
 https://www.youtube.com/watch?v=60F8rzP5nQo
+
 https://www.youtube.com/watch?v=SBeG6cl8BlA
 
 -Use Swagger for API documentation. Create a swagger documentation for the application.
