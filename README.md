@@ -7,7 +7,7 @@ If you have any questions for me or https://github.com/serhatbsts/ you can ask.
 The Developer Candidate List:
 
 https://github.com/serhatbsts/accountManager
-
+https://github.com/murat263/accountManager
 Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
 -User can see his account information in the account page.
