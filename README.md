@@ -6,8 +6,8 @@ If you have any questions for me or https://github.com/serhatbsts/ you can ask.
 
 List of developer students participating in the program:
 
--Murat Tasdemir : (students/MURATTASDEMIRPROGRESS.md)
-- Serhat Bestas : (students/SERHATBESTASPROGRESS.md)
+- Murat Tasdemir : ([MURAT_TASDEMIR_PROGRESS.md](students%2FMURAT_TASDEMIR_PROGRESS.md))
+- Serhat Bestas : ([SERHAT_BESTAS_PROGRESS.md](students%2FSERHAT_BESTAS_PROGRESS.md))
 
 Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
