@@ -4,11 +4,11 @@ If you are a Computer Science student and want to improve your programming skill
 Reach me out, I will follow you, and help you to improve your programming skills. I will update the README.md file from time to time. You can follow the README.md file for the project requirements.
 If you have any questions for me or https://github.com/serhatbsts/ you can ask. 
 
-The Developer Candidate List:
+List of developer students participating in the program:
 
-https://github.com/serhatbsts/accountManager
+-Murat Tasdemir : (students/MURATTASDEMIRPROGRESS.md)
+- Serhat Bestas : (students/SERHATBESTASPROGRESS.md)
 
-https://github.com/murat263/accountManager
 Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
 -User can see his account information in the account page.
