@@ -9,7 +9,9 @@ List of developer students participating in the program:
 - Murat Tasdemir : ([MURAT_TASDEMIR_PROGRESS.md](students%2FMURAT_TASDEMIR_PROGRESS.md))
 - Serhat Bestas : ([SERHAT_BESTAS_PROGRESS.md](students%2FSERHAT_BESTAS_PROGRESS.md))
 
-Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
+## AccountManager
+
+Project Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
 -User can see his account information in the account page.
 For example, when user trigger this api: getAccountInfo, he will get his account information. Money in the account, and other information about his account.
