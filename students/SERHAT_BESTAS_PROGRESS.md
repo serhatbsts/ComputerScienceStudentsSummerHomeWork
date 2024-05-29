@@ -3,6 +3,9 @@
 Github: https://github.com/serhatbsts/accountManager
 
 Pull Requests:
+https://github.com/serhatbsts/accountManager/pull/8
+
+https://github.com/serhatbsts/accountManager/pull/7
 
 https://github.com/serhatbsts/accountManager/pull/6
 
